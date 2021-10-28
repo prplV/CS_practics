@@ -1,0 +1,14 @@
+D:\PROJECTS\ddz1\vs_test\test\test\bin\Debug\netcoreapp3.1\test.exe
+D:\PROJECTS\ddz1\vs_test\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+D:\PROJECTS\ddz1\vs_test\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+D:\PROJECTS\ddz1\vs_test\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+D:\PROJECTS\ddz1\vs_test\test\test\bin\Debug\netcoreapp3.1\test.dll
+D:\PROJECTS\ddz1\vs_test\test\test\bin\Debug\netcoreapp3.1\test.pdb
+D:\PROJECTS\ddz1\vs_test\test\test\obj\Debug\netcoreapp3.1\test.csproj.AssemblyReference.cache
+D:\PROJECTS\ddz1\vs_test\test\test\obj\Debug\netcoreapp3.1\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\ddz1\vs_test\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+D:\PROJECTS\ddz1\vs_test\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+D:\PROJECTS\ddz1\vs_test\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ddz1\vs_test\test\test\obj\Debug\netcoreapp3.1\test.dll
+D:\PROJECTS\ddz1\vs_test\test\test\obj\Debug\netcoreapp3.1\test.pdb
+D:\PROJECTS\ddz1\vs_test\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache

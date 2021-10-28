@@ -1,0 +1,14 @@
+D:\PROJECTS\ddz1\vs_test\cs_pracrics\cs_pracrics\bin\Debug\netcoreapp3.1\cs_pracrics.exe
+D:\PROJECTS\ddz1\vs_test\cs_pracrics\cs_pracrics\bin\Debug\netcoreapp3.1\cs_pracrics.deps.json
+D:\PROJECTS\ddz1\vs_test\cs_pracrics\cs_pracrics\bin\Debug\netcoreapp3.1\cs_pracrics.runtimeconfig.json
+D:\PROJECTS\ddz1\vs_test\cs_pracrics\cs_pracrics\bin\Debug\netcoreapp3.1\cs_pracrics.runtimeconfig.dev.json
+D:\PROJECTS\ddz1\vs_test\cs_pracrics\cs_pracrics\bin\Debug\netcoreapp3.1\cs_pracrics.dll
+D:\PROJECTS\ddz1\vs_test\cs_pracrics\cs_pracrics\bin\Debug\netcoreapp3.1\cs_pracrics.pdb
+D:\PROJECTS\ddz1\vs_test\cs_pracrics\cs_pracrics\obj\Debug\netcoreapp3.1\cs_pracrics.csproj.AssemblyReference.cache
+D:\PROJECTS\ddz1\vs_test\cs_pracrics\cs_pracrics\obj\Debug\netcoreapp3.1\cs_pracrics.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\ddz1\vs_test\cs_pracrics\cs_pracrics\obj\Debug\netcoreapp3.1\cs_pracrics.AssemblyInfoInputs.cache
+D:\PROJECTS\ddz1\vs_test\cs_pracrics\cs_pracrics\obj\Debug\netcoreapp3.1\cs_pracrics.AssemblyInfo.cs
+D:\PROJECTS\ddz1\vs_test\cs_pracrics\cs_pracrics\obj\Debug\netcoreapp3.1\cs_pracrics.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ddz1\vs_test\cs_pracrics\cs_pracrics\obj\Debug\netcoreapp3.1\cs_pracrics.dll
+D:\PROJECTS\ddz1\vs_test\cs_pracrics\cs_pracrics\obj\Debug\netcoreapp3.1\cs_pracrics.pdb
+D:\PROJECTS\ddz1\vs_test\cs_pracrics\cs_pracrics\obj\Debug\netcoreapp3.1\cs_pracrics.genruntimeconfig.cache

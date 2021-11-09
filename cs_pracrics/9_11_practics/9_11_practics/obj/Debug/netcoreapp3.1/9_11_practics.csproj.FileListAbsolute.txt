@@ -1,0 +1,14 @@
+D:\PROJECTS\ddz1\vs_test\9_11_practics\9_11_practics\obj\Debug\netcoreapp3.1\9_11_practics.csproj.AssemblyReference.cache
+D:\PROJECTS\ddz1\vs_test\9_11_practics\9_11_practics\obj\Debug\netcoreapp3.1\9_11_practics.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\ddz1\vs_test\9_11_practics\9_11_practics\obj\Debug\netcoreapp3.1\9_11_practics.AssemblyInfoInputs.cache
+D:\PROJECTS\ddz1\vs_test\9_11_practics\9_11_practics\obj\Debug\netcoreapp3.1\9_11_practics.AssemblyInfo.cs
+D:\PROJECTS\ddz1\vs_test\9_11_practics\9_11_practics\obj\Debug\netcoreapp3.1\9_11_practics.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ddz1\vs_test\9_11_practics\9_11_practics\bin\Debug\netcoreapp3.1\9_11_practics.exe
+D:\PROJECTS\ddz1\vs_test\9_11_practics\9_11_practics\bin\Debug\netcoreapp3.1\9_11_practics.deps.json
+D:\PROJECTS\ddz1\vs_test\9_11_practics\9_11_practics\bin\Debug\netcoreapp3.1\9_11_practics.runtimeconfig.json
+D:\PROJECTS\ddz1\vs_test\9_11_practics\9_11_practics\bin\Debug\netcoreapp3.1\9_11_practics.runtimeconfig.dev.json
+D:\PROJECTS\ddz1\vs_test\9_11_practics\9_11_practics\bin\Debug\netcoreapp3.1\9_11_practics.dll
+D:\PROJECTS\ddz1\vs_test\9_11_practics\9_11_practics\bin\Debug\netcoreapp3.1\9_11_practics.pdb
+D:\PROJECTS\ddz1\vs_test\9_11_practics\9_11_practics\obj\Debug\netcoreapp3.1\9_11_practics.dll
+D:\PROJECTS\ddz1\vs_test\9_11_practics\9_11_practics\obj\Debug\netcoreapp3.1\9_11_practics.pdb
+D:\PROJECTS\ddz1\vs_test\9_11_practics\9_11_practics\obj\Debug\netcoreapp3.1\9_11_practics.genruntimeconfig.cache

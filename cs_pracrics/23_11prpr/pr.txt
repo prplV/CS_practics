@@ -1,0 +1,202 @@
+//4 не успел доделать (делал всё в одном файле и остальные программы не сохранял)
+using System;
+
+namespace prpr_23_11
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int rows = int.Parse(Console.ReadLine());
+            int[] mas = new int[rows];
+
+            for (int i = 0; i < mas.Length; i++)
+            {
+                mas[i] = int.Parse(Console.ReadLine());
+            }
+
+            Clear(mas);
+        }
+
+        static void Clear(int[] mas) 
+        {
+            int max = 0;
+            string a = null;
+            foreach (int element in mas)
+            {
+                if (element % 2 != 0 && element > max)
+                {
+                    max = element;
+                }
+            }
+            foreach(int element in mas)
+            {
+                a += Convert.ToString(element);
+            }
+
+            int index = a.IndexOf(Convert.ToString(max));
+
+            string count1 = null;
+            string count2 = null;
+            for (int i = index; i < mas.Length; i++)
+            {
+                count1 += Convert.ToString(mas[i]);
+            }
+            for (int i = 0; i < index; i++)
+            {
+                count2 += Convert.ToString(mas[i]);
+            }
+
+            int raz1 = Math.Abs(a.Length - 3);
+            int raz2 = Math.Abs(a.Length - 1);
+
+            string aa = null;
+            string bb = null;
+
+            for (int i = 0; i < raz1; i++)
+            { 
+                
+            }
+        }
+
+    }
+}
+
+
+//3
+using System;
+
+namespace prpr_23_11
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string prog = null;
+            Console.WriteLine("Введите свою С++ программу;");
+            while (prog != "0")
+            {
+                prog = Console.ReadLine();
+                Clear(prog);
+            }
+        }
+
+        static void Clear(string pr) 
+        {
+            string[] array = new string[200];
+            if (pr.Contains("//"))
+            {
+                pr = pr.Replace("//", "");
+                Console.WriteLine($"FIXED: {pr}");
+            }
+            else if (pr.Contains("/*"))
+            {
+                pr = pr.Replace("/*", "");
+                Console.WriteLine($"FIXED: {pr}");
+            }
+            else if (pr.Contains("*/"))
+            {
+                pr = pr.Replace("*/", "");
+                Console.WriteLine($"FIXED: {pr}");
+            }
+            else {
+                Console.WriteLine(pr);
+            }
+
+        }
+
+    }
+}
+
+//2
+using System;
+
+namespace prpr_23_11
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string text = Console.ReadLine();
+            string[] words = text.Split(new char[] {' '}, StringSplitOptions.RemoveEmptyEntries);
+            string text1 = Console.ReadLine();
+            string[] words1 = text.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+
+            Prka(words, words1);
+        }
+
+        static void Prka(string[] array, string[] array1) 
+        {
+            string otv = null;
+            for (int i = 0; i < array.Length; i++)
+            {
+                for (int j = 0; j < array1.Length; j++) 
+                {
+                    if (array[i] == array1[j])
+                    {
+                        if (otv.IndexOf(array[i]) == -1) 
+                        {
+                            otv = otv + " " + array[i];
+                        }
+                        
+                    }
+                }
+            }
+            Console.WriteLine(otv);
+        }
+
+    }
+}
+
+//1
+sing System;
+
+namespace prpr_23_11
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Введите кол-во строк массива");
+            int a = int.Parse(Console.ReadLine());
+            Console.WriteLine("Введите кол-во столбцов массива");
+            int b = int.Parse(Console.ReadLine());
+
+            int[,] array = new int[a, b];
+
+            for (int i = 0; i < a; i++) 
+            {
+                for (int j = 0; j < b; j++) 
+                {
+                    array[i, j] = Console.Read();
+                }
+            }
+
+            Obr(array, a, b);
+        }
+
+        static void Obr(int[,] mas, int a, int b) 
+        {
+            int sum = 0;
+            int pr = 1;
+            for (int i = 0; i < a; i++)
+            {
+                for (int j = 0; j < b; j++)
+                {
+                    if (i == j)
+                    {
+                        sum += mas[i, j];
+                    }
+                    else if (i + j == b - 1)
+                    {
+                        pr *= mas[i, j];
+                    }
+                }
+
+            }
+            Console.WriteLine(sum);
+            Console.WriteLine(pr);
+        }
+    }
+}

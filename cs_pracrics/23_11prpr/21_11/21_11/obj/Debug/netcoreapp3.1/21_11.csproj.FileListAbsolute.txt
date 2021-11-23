@@ -1,0 +1,14 @@
+D:\PROJECTS\ddz1\vs_test\23_11prpr\21_11\21_11\bin\Debug\netcoreapp3.1\21_11.exe
+D:\PROJECTS\ddz1\vs_test\23_11prpr\21_11\21_11\bin\Debug\netcoreapp3.1\21_11.deps.json
+D:\PROJECTS\ddz1\vs_test\23_11prpr\21_11\21_11\bin\Debug\netcoreapp3.1\21_11.runtimeconfig.json
+D:\PROJECTS\ddz1\vs_test\23_11prpr\21_11\21_11\bin\Debug\netcoreapp3.1\21_11.runtimeconfig.dev.json
+D:\PROJECTS\ddz1\vs_test\23_11prpr\21_11\21_11\bin\Debug\netcoreapp3.1\21_11.dll
+D:\PROJECTS\ddz1\vs_test\23_11prpr\21_11\21_11\bin\Debug\netcoreapp3.1\21_11.pdb
+D:\PROJECTS\ddz1\vs_test\23_11prpr\21_11\21_11\obj\Debug\netcoreapp3.1\21_11.csproj.AssemblyReference.cache
+D:\PROJECTS\ddz1\vs_test\23_11prpr\21_11\21_11\obj\Debug\netcoreapp3.1\21_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\ddz1\vs_test\23_11prpr\21_11\21_11\obj\Debug\netcoreapp3.1\21_11.AssemblyInfoInputs.cache
+D:\PROJECTS\ddz1\vs_test\23_11prpr\21_11\21_11\obj\Debug\netcoreapp3.1\21_11.AssemblyInfo.cs
+D:\PROJECTS\ddz1\vs_test\23_11prpr\21_11\21_11\obj\Debug\netcoreapp3.1\21_11.csproj.CoreCompileInputs.cache
+D:\PROJECTS\ddz1\vs_test\23_11prpr\21_11\21_11\obj\Debug\netcoreapp3.1\21_11.dll
+D:\PROJECTS\ddz1\vs_test\23_11prpr\21_11\21_11\obj\Debug\netcoreapp3.1\21_11.pdb
+D:\PROJECTS\ddz1\vs_test\23_11prpr\21_11\21_11\obj\Debug\netcoreapp3.1\21_11.genruntimeconfig.cache
